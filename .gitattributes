@@ -32,6 +32,10 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Seed7 source file
+*.sd7 linguist-detectable=true
+*.sd7 linguist-documentation=false
+*.sd7 linguist-language=Seed7
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +168,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, September 23rd at 3:43 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
